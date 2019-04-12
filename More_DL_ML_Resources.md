@@ -259,17 +259,3 @@
 | 3.   | **NYU - AI Seminars**                  | Lots of Legends, NYU                                     | [modern-AI](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering/ece-seminar-series/modern-artificial) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLhwo5ntex8iY9xhpSwWas451NgVuqBE7U) | 2017-now  |
 | 4.   | **Deep Learning: Alchemy or Science?** | Lots of Legends, Institute for Advanced Study, Princeton | [DLAS](https://video.ias.edu/deeplearning/2019/0222) <br/> [Agenda](https://www.math.ias.edu/tml/dlasagenda) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ7aAxhIHALBoh8l6-UxmMNP) | 2019      |
 |      |                                        |                                                          |                                                              |                                                              |           |
-
-### To-Do :running:
-
-:white_large_square: Optimization courses which form the foundation for ML, DL, RL
-
-:white_large_square: Computer Vision courses which are DL & ML heavy
-
-:white_large_square: NLP courses which are DL, RL, & ML heavy
-
-:white_large_square: Speech recognition courses which are DL heavy
-
-:white_large_square: Structured Courses on Geometric, Graph Neural Networks,
-
-:white_large_square: Section on DL/RL/ML Summer School Lectures
